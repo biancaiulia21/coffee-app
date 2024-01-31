@@ -611,5 +611,9 @@ section{
     html{
         font-size: 50%;
     }
+    .menu .box-container{
+        display: flex;
+        flex-direction: column;
+    }
    
 }
